@@ -1,9 +1,7 @@
-# Hello, thank you for visiting my Github page!
+<p align = "left"> <img src="https://komarev.com/ghpvc/?username=dbanerjee-analyticshub&label=Profile%20views&color=0e75b6&style=flat" alt="dbanerjee-analyticshub" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dbanerjee-analyticshub&label=Profile%20views&color=0e75b6&style=flat" alt="dbanerjee-analyticshub" /> </p>
-
-<p align="left">
-  Welcome :octocat: - 
+<p align = "left"> Welcome :octocat: to Git repository! </p>
+<p align = "left">
   Data analytics professional with 5+ years of experience delivering scalable, trusted data solutions that support strategic business decision‑making.
   I value simplicity, data‑driven thinking, and credibility.
 </p>
