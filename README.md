@@ -1,6 +1,6 @@
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=dbanerjee-analyticshub&label=Profile%20views&color=0e75b6&style=flat" alt="dbanerjee-analyticshub" /> </p>
 
-<p align = "left"> <strong> Welcome :octocat: to Git repository! </strong> </p>
+<p align = "left"> <strong> Welcome :octocat: to my project repository! </strong> </p>
 
 <p align = "left">
   💫 About me -
