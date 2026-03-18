@@ -1,12 +1,13 @@
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=dbanerjee-analyticshub&label=Profile%20views&color=0e75b6&style=flat" alt="dbanerjee-analyticshub" /> </p>
 
-<p align = "left"> Welcome :octocat: to Git repository! </p>
+<p align = "left"> <strong> Welcome :octocat: to Git repository! </strong> </p>
+
 <p align = "left">
-  Data analytics professional with 5+ years of experience delivering scalable, trusted data solutions that support strategic business decision‑making.
-  I value simplicity, data‑driven thinking, and credibility.
+  About me -
+  I am a data analytics professional with 5+ years of experience delivering scalable, trusted data solutions for confident, strategic decision‑making — with a focus on simplicity, data‑driven thinking, and credibility.
 </p>
 
-# 💻 Tech Stack:
+<p align = "left">💻 Tech Stack:</p>
 
 ![R](https://img.shields.io/badge/RStudio-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
