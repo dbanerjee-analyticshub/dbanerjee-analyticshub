@@ -1,12 +1,15 @@
-<h3 align="center">Thank you for visiting my project repository!!</h3>
+<h3 align="center">Hello, thank you for visiting my GitHub page!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dbanerjee-analyticshub&label=Profile%20views&color=0e75b6&style=flat" alt="dbanerjee-analyticshub" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dbanerjee-analyticshub&label=Profile%20views&color=0e75b6&style=flat" alt="dbanerjee-analyticshub" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">💫About Me:</h3>
+<p align="left">I am a Data Analyst </p>
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+# 💫 About Me:
+I am Data Analyst
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbanerjee-analyticshub&show_icons=true&locale=en&layout=compact" alt="dbanerjee-analyticshub" /></p>
+
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
