@@ -1,4 +1,4 @@
-<h3 align="center">I am an Analytics professional with 5+ years of experience delivering actionable insights that empower organisations to make informed, strategic decisions.</h3>
+<h3 align="center">Thank you for visiting my project repository!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbanerjee-analyticshub&label=Profile%20views&color=0e75b6&style=flat" alt="dbanerjee-analyticshub" /> </p>
 
