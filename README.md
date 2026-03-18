@@ -3,7 +3,7 @@
 <p align = "left"> <strong> Welcome :octocat: to Git repository! </strong> </p>
 
 <p align = "left">
-  About me -
+  💫 About me -
   I am a data analytics professional with 5+ years of experience delivering scalable, trusted data solutions for confident, strategic decision‑making — with a focus on simplicity, data‑driven thinking, and credibility.
 </p>
 
